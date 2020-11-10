@@ -6,7 +6,7 @@ I have made various routes for get , post , put and delete
 for displaying the todos I have used a get signal
 for adding todo to the database I have used post signal 
 for update I have used put signal 
-for delte I have used delete signal
+for delete I have used delete signal
 c)
 CREATE DATABASE perntodo;
 
